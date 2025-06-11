@@ -1,4 +1,4 @@
-This readme.nd file contains all the experiments link done using html,css,js and other technologies.
+This readme.md file contains all the experiments link done using html,css,js and other technologies.
 
 EXPERIMENT1 :https://github.com/mdsana14/experiment1.git
 
